@@ -8,7 +8,7 @@ Content
 < Fok
 ## 1
 ### 2
-** BOLD ** _italic_
+**BOLD** _italic_
 
 
 - [x] Myself Fixed
